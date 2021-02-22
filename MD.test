@@ -1,0 +1,12 @@
+### 1. library setup
+### 2. data loading
+#### 2.1 skim
+#### 2.2 plotting data
+### 3. data cleaning
+### 4. data split
+### 5. make recipe
+### 6. make model
+### 7. make tunning grid
+### 8. make workflow
+### 9. select best parameter
+### 10. last fit (refit)
